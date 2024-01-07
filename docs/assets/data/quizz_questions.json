@@ -1,0 +1,619 @@
+{
+  "title": "Qual Herói você seria ?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual superpoder você escolheria?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Inteligência e habilidades técnicas",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Força sobre-humana e voo",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Habilidades de luta e sabedoria divina",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Super velocidade",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Comunicação e controle de criaturas marinhas",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Força cibernética e habilidades tecnológicas",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Como você prefere passar seu tempo livre?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Treinando e se aprimorando",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Ajudando os outros e sendo altruísta",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Explorando novos lugares e culturas",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Realizando atividades físicas e esportivas",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Explorando o mundo aquático",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Trabalhando em projetos de tecnologia",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual é sua abordagem em situações de conflito?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Usar estratégia e planejamento",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Proteger a todos custe o que custar",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Buscar a paz e a verdade",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Resolver rápido para minimizar danos",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Defender os oceanos e suas criaturas",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Usar a tecnologia para resolver",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é o seu maior medo?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Perder controle das situações",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Ser incapaz de salvar a todos",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Ser manipulado ou controlado",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Ficar preso no tempo",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Ver danos irreparáveis nos oceanos",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Perder a humanidade para a tecnologia",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "O que você valoriza mais em um líder?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Inteligência e estratégia",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Inspirar esperança e confiança",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Sabedoria e justiça",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Rapidez e eficiência",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Conexão com a natureza e os oceanos",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Habilidade em tecnologia e inovação",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Se você tivesse um dia livre de responsabilidades, o que faria?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Treinamento e aprimoramento pessoal",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Ajudaria em questões humanitárias",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Exploraria novos lugares ou culturas",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Participaria de competições ou desafios",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Exploraria os oceanos ou ajudaria a vida marinha",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Trabalharia em projetos de tecnologia",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Qual é a sua visão sobre o uso de tecnologia?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Usar tecnologia para o bem e proteção",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Usar a tecnologia para ajudar a humanidade",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Usar tecnologia como uma ferramenta",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Usar a tecnologia para melhorar velocidade e eficiência",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Usar a tecnologia para proteger os oceanos",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Depender demais da tecnologia pode ser perigoso",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual é a sua abordagem para resolver problemas?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Planejamento e estratégia cuidadosos",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Enfrentar os problemas de frente",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Procurar resolver de forma pacífica",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Resolver rapidamente para evitar danos maiores",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Resolver de acordo com a conexão com a natureza",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Usar a tecnologia para solucionar problemas",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Qual é o seu maior motivo para defender os outros?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Porque é a coisa certa a fazer",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Para inspirar esperança e proteger",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Para trazer paz e justiça",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Para evitar desastres e salvar vidas",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Para preservar a vida marinha e a natureza",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Para usar a tecnologia em prol da segurança",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "O que mais te inspira?",
+      "options": [
+        {
+          "id": 1,
+          "name": "As experiências e conhecimentos adquiridos",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "A ideia de um mundo melhor e seguro",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "A sabedoria e as conquistas pessoais",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "A velocidade e a emoção das situações",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "A beleza e a magnitude dos oceanos",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "A evolução e o avanço da tecnologia",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Qual é a sua atitude diante dos desafios?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Planejar e enfrentar com determinação",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Enfrentar sem hesitação",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Buscar uma solução justa e equilibrada",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Enfrentar com velocidade e agilidade",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Encarar de acordo com a conexão com a natureza",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Resolver usando tecnologia e inovação",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "O que é mais importante para você?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Conhecimento e habilidades",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Proteger os indefesos",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Verdade e justiça",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Rapidez e agilidade",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Preservar a natureza e os oceanos",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Inovação e avanços tecnológicos",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Qual é o seu maior valor pessoal?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Determinação e disciplina",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "A bondade e o idealismo",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "A coragem e a compaixão",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "A velocidade e a agilidade",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "O respeito pela natureza e o oceano",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "A habilidade de criar e inovar",
+          "alias": "F"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Qual é a sua opinião sobre sacrifício pessoal?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Às vezes necessário pelo bem maior",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Sempre disposto a se sacrificar pelo bem dos outros",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Se necessário para proteger os ideais",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Às vezes necessário em situações críticas",
+          "alias": "D"
+        },
+        {
+          "id": 5,
+          "name": "Disposto a sacrificar para preservar a vida marinha",
+          "alias": "E"
+        },
+        {
+          "id": 6,
+          "name": "Preferiria evitar, se possível, usando a tecnologia",
+          "alias": "F"
+        }
+      ]
+    },
+        {
+          "id": 15,
+          "question": "Se você pudesse escolher um local para viver, onde seria?",
+          "options":[
+            {"id": 1, "name":"Uma cidade tecnologicamente avançada", "alias":"A"},
+            {"id": 2, "name":"Uma área rural tranquila", "alias":"B"},
+            {"id": 3, "name":"Uma ilha isolada com cultura rica", "alias":"C"},
+            {"id": 4, "name":"Uma metrópole movimentada e empolgante", "alias":"D"},
+            {"id": 5, "name":"Uma residência à beira-mar", "alias":"E"},
+            {"id": 6, "name":"Uma cidade com foco em inovação tecnológica", "alias":"F"}
+          ]
+        },
+        {
+          "id": 16,
+          "question": "Qual é a sua reação diante de uma situação de emergência?",
+          "options":[
+            {"id": 1, "name":"Analisar e criar um plano de ação", "alias":"A"},
+            {"id": 2, "name":"Agir imediatamente para salvar vidas", "alias":"B"},
+            {"id": 3, "name":"Intervir e manter a ordem", "alias":"C"},
+            {"id": 4, "name":"Agir com velocidade para minimizar danos", "alias":"D"},
+            {"id": 5, "name":"Proteger a vida marinha e os oceanos", "alias":"E"},
+            {"id": 6, "name":"Usar tecnologia para resolver a emergência", "alias":"F"}
+          ]
+        },
+        {
+          "id": 17,
+          "question": "Qual é a sua filosofia de vida?",
+          "options":[
+            {"id": 1, "name":"Aprender com experiências e conhecimentos", "alias":"A"},
+            {"id": 2, "name":"Acreditar no potencial humano", "alias":"B"},
+            {"id": 3, "name":"Buscar a verdade e a sabedoria", "alias":"C"},
+            {"id": 4, "name":"Viver a vida ao máximo e aproveitar cada momento", "alias":"D"},
+            {"id": 5, "name":"Preservar e respeitar a natureza", "alias":"E"},
+            {"id": 6, "name":"Buscar constantes avanços e inovações", "alias":"F"}
+          ]
+        },
+        {
+          "id": 18,
+          "question": "Se tivesse que escolher um animal que te representasse",
+          "options":[
+            {"id": 1, "name":"Morcego", "alias":"A"},
+            {"id": 2, "name":"Águia", "alias":"B"},
+            {"id": 3, "name":"Águia", "alias":"C"},
+            {"id": 4, "name":"Lebre", "alias":"D"},
+            {"id": 5, "name":"Tubarão", "alias":"E"},
+            {"id": 6, "name":"Lobo", "alias":"F"}
+          ]
+        },
+        {
+          "id": 19,
+          "question": "Se você pudesse ter um objeto de poder, o que escolheria?",
+          "options":[
+            {"id": 1, "name":"Um cinto de utilidades versátil", "alias":"A"},
+            {"id": 2, "name":"Um cristal ou artefato cósmico", "alias":"B"},
+            {"id": 3, "name":"Um laço da verdade mágico", "alias":"C"},
+            {"id": 4, "name":"Um anel de alta tecnologia", "alias":"D"},
+            {"id": 5, "name":"Um tridente mágico", "alias":"E"},
+            {"id": 6, "name":"Um sistema de controle cibernético", "alias":"F"}
+          ]
+        },
+        {
+          "id": 20,
+          "question": "Se você pudesse salvar apenas uma pessoa, quem seria?",
+          "options":[
+            {"id": 1, "name":"Familiar", "alias":"A"},
+            {"id": 2, "name":"Amigo próximo", "alias":"B"},
+            {"id": 3, "name":"Estranho inocente", "alias":"C"},
+            {"id": 4, "name":"Muitas pessoas em risco", "alias":"D"},
+            {"id": 5, "name":"A si mesmo", "alias":"E"},
+            {"id": 6, "name":"População inteira de uma cidade", "alias":"F"}
+          ]
+        }
+  ],
+  "results": {
+    "A": {
+      "title": "Batman!",
+      "reason": "Sua abordagem estratégica para resolver problemas, a valorização da inteligência e habilidades técnicas, assim como o foco no treinamento e aprimoramento pessoal, indicam uma afinidade com as características do Batman. Sua determinação em proteger os outros, buscando um equilíbrio entre ética, justiça e o uso da tecnologia, te coloca no caminho do Cavaleiro das Trevas.",
+      "image": "../../../assets/imgs/batman.png",
+      "bg" : "../../../assets/imgs/bgs/3.png"
+    },
+    "B": {
+      "title": "Superman!",
+      "reason": "Sua natureza altruísta, a vontade de proteger a todos custe o que custar, além da busca por inspirar esperança e confiança, refletem as características do Superman. Sua crença no potencial humano e disposição para ajudar em questões humanitárias te colocam em sintonia com o Último Filho de Krypton.",
+      "image": "../../../assets/imgs/superman.png",
+      "bg" : "../../../assets/imgs/bgs/1.png"
+    },
+    "C": {
+      "title": "Mulher-Maravilha!",
+      "reason": "Sua busca pela verdade e justiça, a valorização da sabedoria e coragem, juntamente com a abordagem pacífica em situações de conflito, demonstram afinidade com as características da Mulher-Maravilha. Sua aspiração por explorar novos lugares e culturas encontra paralelos com a Princesa das Amazonas.",
+      "image": "../../../assets/imgs/wonderwoman.png",
+      "bg" : "../../../assets/imgs/bgs/5.png"
+    },
+    "D": {
+      "title": "The Flash!",
+      "reason": "Sua preferência por resolver problemas rapidamente, a valorização da agilidade e velocidade, juntamente com a disposição para enfrentar desafios com rapidez, refletem as características do The Flash. Sua inclinação para participar de competições ou desafios e enfrentar situações de emergência com velocidade, fazem você se alinhar ao Velocista Escarlate.",
+      "image": "../../../assets/imgs/flash.png",
+      "bg" : "../../../assets/imgs/bgs/2.png"
+    },
+    "E": {
+      "title": "Aquaman!",
+      "reason": "Seu apreço pela natureza e o respeito pelos oceanos, juntamente com o desejo de proteger a vida marinha, refletem as características do Aquaman. Sua preferência por explorar os oceanos e ajudar a vida marinha demonstram afinidade com o Rei de Atlântida.",
+      "image": "../../../assets/imgs/aquaman.webp",
+      "bg" : "../../../assets/imgs/bgs/4.png"
+    },
+    "F": {
+      "title": "Ciborg!",
+      "reason": "Sua preferência por trabalhar em projetos de tecnologia, a visão sobre o uso da tecnologia para o bem e a disposição para resolver problemas utilizando inovações tecnológicas indicam uma afinidade com as características do Ciborg. Sua abordagem centrada na tecnologia e na resolução de problemas com o uso dela te coloca no caminho do Meio-Humano, Meio-Máquina.",
+      "image": "../../../assets/imgs/ciborg.png",
+      "bg" : "../../../assets/imgs/bgs/6.png"
+    }
+  }
+}
