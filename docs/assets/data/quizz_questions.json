@@ -1,582 +1,711 @@
 {
   "title": "Qual Herói você seria ?",
   "questions": [
-    {
-      "id": 1,
-      "question": "Qual superpoder você escolheria?",
-      "options": [
+      {
+       "id": 1,
+       "question": "Em uma situação de conflito, qual seria a sua primeira ação?",
+       "options": [
+         {
+           "id": 1,
+           "name": "Negociar com os adversários",
+           "alias": "F"
+         },
+         {
+           "id": 2,
+           "name": "Chamar reforços",
+           "alias": "B"
+         },
+         {
+           "id": 3,
+           "name": "Buscar refúgio",
+           "alias": "A"
+         },
+         {
+           "id": 4,
+           "name": "Atacar diretamente",
+           "alias": "D"
+         },
+         {
+           "id": 5,
+           "name": "Esconder-se",
+           "alias": "C"
+         },
+         {
+           "id": 6,
+           "name": "Usar uma arma de fogo",
+           "alias": "E"
+         }
+        ]
+      },
+      {
+       "id": 2,
+       "question": "Se você tivesse que tomar uma decisão que poderia afetar significativamente muitas pessoas, qual seria a sua estratégia de tomada de decisão?",
+       "options": [
+         {
+           "id": 1,
+           "name": "Considerar todas as opções e escolher a melhor",
+           "alias": "A"
+         },
+         {
+           "id": 2,
+           "name": "Tomar a decisão que acha que é a mais justa",
+           "alias": "B"
+         },
+         {
+           "id": 3,
+           "name": "Tomar a decisão que acha que é a mais benéfica para a maioria",
+           "alias": "C"
+         },
+         {
+           "id": 4,
+           "name": "Tomar a decisão que acha que é a mais segura",
+           "alias": "D"
+         },
+         {
+           "id": 5,
+           "name": "Tomar a decisão que acha que é a mais fácil",
+           "alias": "E"
+         },
+         {
+           "id": 6,
+           "name": "Tomar a decisão que acha que é a mais prática",
+           "alias": "F"
+         }
+       ]
+      },
+      {
+       "id": 3,
+       "question": "Se você fosse um líder, quais seriam seus principais desafios e como você os superaria?",
+       "options": [
+         {
+           "id": 1,
+           "name": "Motivar a equipe",
+           "alias": "A"
+         },
+         {
+           "id": 2,
+           "name": "Tomar decisões difíceis",
+           "alias": "B"
+         },
+         {
+           "id": 3,
+           "name": "Resolver conflitos entre os membros da equipe",
+           "alias": "C"
+         },
+         {
+           "id": 4,
+           "name": "Gerenciar recursos de maneira eficiente",
+           "alias": "D"
+         },
+         {
+           "id": 5,
+           "name": "Cumprir prazos",
+           "alias": "E"
+         },
+         {
+           "id": 6,
+           "name": "Manter a moral da equipe alta",
+           "alias": "F"
+         }
+       ]
+      },
+      {
+       "id": 4,
+       "question": "Quais são as três habilidades mais importantes para um líder eficaz e como você desenvolveria essas habilidades?",
+       "options": [
+         {
+           "id": 1,
+           "name": "Habilidades de comunicação",
+           "alias": "A"
+         },
+         {
+           "id": 2,
+           "name": "Habilidades de liderança",
+           "alias": "B"
+         },
+         {
+           "id": 3,
+           "name": "Habilidades de gestão",
+           "alias": "C"
+         },
+         {
+           "id": 4,
+           "name": "Habilidades de tomada de decisão",
+           "alias": "D"
+         },
+         {
+           "id": 5,
+           "name": "Habilidades de resolução de conflitos",
+           "alias": "E"
+         },
+         {
+           "id": 6,
+           "name": "Habilidades de negociação",
+           "alias": "F"
+         }
+       ]
+      },
+      {
+        "id": 5,
+        "question": "Se você pudesse escolher um objeto de poder, o que escolheria e por quê?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Um cinto de utilidades versáteis",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Uma lanterna mágica",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Um elmo mágico",
+            "alias": "C"
+          },
+          {
+            "id": 4,
+            "name": "Um escudo mágico",
+            "alias": "D"
+          },
+          {
+            "id": 5,
+            "name": "Uma espada mágica",
+            "alias": "E"
+          },
+          {
+            "id": 6,
+            "name": "Um bastão mágico",
+            "alias": "F"
+          }
+        ]
+       },
+       {
+        "id": 6,
+        "question": "Se você pudesse viajar no tempo, para quando você iria e por quê?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Para o passado para corrigir um erro",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Para o futuro para ver o que acontecerá",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Para o presente para visitar lugares que não conseguiu",
+            "alias": "C"
+          },
+          {
+            "id": 4,
+            "name": "Para o passado para conhecer figuras históricas",
+            "alias": "D"
+          },
+          {
+            "id": 5,
+            "name": "Para o futuro para evitar uma catástrofe",
+            "alias": "E"
+          },
+          {
+            "id": 6,
+            "name": "Para o presente para conhecer pessoas que não conhece",
+            "alias": "F"
+          }
+        ]
+       },
+       {
+        "id": 7,
+        "question": "Se você pudesse viver em qualquer lugar do mundo, onde seria e por quê?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Em uma cidade com muita cultura e arte",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Em uma cidade com muita natureza e tranquilidade",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Em uma cidade com muitos restaurantes e bares",
+            "alias": "C"
+          },
+          {
+            "id": 4,
+            "name": "Em uma cidade com muitas atrações turísticas",
+            "alias": "D"
+          },
+          {
+            "id": 5,
+            "name": "Em uma cidade com muitas empresas tecnológicas",
+            "alias": "E"
+          },
+          {
+            "id": 6,
+            "name": "Em uma cidade com muitas universidades",
+            "alias": "F"
+          }
+        ]
+       },
+       {
+        "id": 8,
+        "question": "Se você pudesse ter qualquer superpoder, qual seria e por quê?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Voo",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Força sobre-humana",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Invulnerabilidade",
+            "alias": "C"
+          },
+          {
+            "id": 4,
+            "name": "Visão de raio-X",
+            "alias": "D"
+          },
+          {
+            "id": 5,
+            "name": "Invisibilidade",
+            "alias": "E"
+          },
+          {
+            "id": 6,
+            "name": "Superspeed",
+            "alias": "F"
+          }
+        ]
+       },
+       {
+        "id": 9,
+        "question": "Se você pudesse mudar algo sobre o passado, o que mudaria e por quê?",
+        "options": [
+         {
+           "id": 1,
+           "name": "Corrigir um erro que cometi",
+           "alias": "A"
+         },
+         {
+           "id": 2,
+           "name": "Prevenir um evento infeliz",
+           "alias": "B"
+         },
+         {
+           "id": 3,
+           "name": "Melhorar minha educação",
+           "alias": "C"
+         },
+         {
+           "id": 4,
+           "name": "Corrigir um erro que afetou alguém que eu amo",
+           "alias": "D"
+         },
+         {
+           "id": 5,
+           "name": "Impedir que uma guerra acontecesse",
+           "alias": "E"
+         },
+         {
+           "id": 6,
+           "name": "Tornar uma decisão diferente",
+           "alias": "F"
+         }
+        ]
+       },
+       {
+        "id": 10,
+        "question": "Se você pudesse conhecer qualquer pessoa histórica, quem seria e por quê?",
+        "options": [
+         {
+           "id": 1,
+           "name": "Abraham Lincoln",
+           "alias": "A"
+         },
+         {
+           "id": 2,
+           "name": "Albert Einstein",
+           "alias": "B"
+         },
+         {
+           "id": 3,
+           "name": "Queen Elizabeth I",
+           "alias": "C"
+         },
+         {
+           "id": 4,
+           "name": "Nelson Mandela",
+           "alias": "D"
+         },
+         {
+           "id": 5,
+           "name": "Mahatma Gandhi",
+           "alias": "E"
+         },
+         {
+           "id": 6,
+           "name": "Leonardo Da Vinci",
+           "alias": "F"
+         }
+        ]
+       },
+       {
+        "id": 11,
+        "question": "Se você pudesse ter uma conversa com qualquer pessoa famosa, quem seria e o que gostaria de discutir?",
+        "options": [
+         {
+           "id": 1,
+           "name": "Steve Jobs",
+           "alias": "A"
+         },
+         {
+           "id": 2,
+           "name": "Elon Musk",
+           "alias": "B"
+         },
+         {
+           "id": 3,
+           "name": "Oprah Winfrey",
+           "alias": "C"
+         },
+         {
+           "id": 4,
+           "name": "Malala Yousafzai",
+           "alias": "D"
+         },
+         {
+           "id": 5,
+           "name": "Bill Gates",
+           "alias": "E"
+         },
+         {
+           "id": 6,
+           "name": "Mark Zuckerberg",
+           "alias": "F"
+         }
+        ]
+       },
+       {
+        "id": 12,
+        "question": "Se você pudesse ter qualquer habilidade especial, qual seria e como a usaria?",
+        "options": [
+         {
+           "id": 1,
+           "name": "Voo",
+           "alias": "A"
+         },
+         {
+           "id": 2,
+           "name": "Invisibilidade",
+           "alias": "B"
+         },
+         {
+           "id": 3,
+           "name": "Força sobre-humana",
+           "alias": "C"
+         },
+         {
+           "id": 4,
+           "name": "Manipulação de energia",
+           "alias": "D"
+         },
+         {
+           "id": 5,
+           "name": "Controle mental",
+           "alias": "E"
+         },
+         {
+           "id": 6,
+           "name": "Imortalidade",
+           "alias": "F"
+         }
+        ]
+       },
+       {
+        "id": 13,
+        "question": "Se você fosse um programador, qual linguagem de programação você gostaria de dominar e por quê?",
+        "options": [
         {
           "id": 1,
-          "name": "Inteligência e habilidades técnicas",
+          "name": "Python",
           "alias": "A"
         },
         {
           "id": 2,
-          "name": "Força sobre-humana e voo",
+          "name": "Java",
           "alias": "B"
         },
         {
           "id": 3,
-          "name": "Habilidades de luta e sabedoria divina",
+          "name": "JavaScript",
           "alias": "C"
         },
         {
           "id": 4,
-          "name": "Super velocidade",
+          "name": "C++",
           "alias": "D"
         },
         {
           "id": 5,
-          "name": "Comunicação e controle de criaturas marinhas",
+          "name": "Ruby",
           "alias": "E"
         },
         {
           "id": 6,
-          "name": "Força cibernética e habilidades tecnológicas",
+          "name": "Swift",
           "alias": "F"
         }
-      ]
-    },
-    {
-      "id": 2,
-      "question": "Como você prefere passar seu tempo livre?",
-      "options": [
+        ]
+       },
+       {
+        "id": 14,
+        "question": "Se você fosse um designer gráfico, qual tipo de design você gostaria de criar e por quê?",
+        "options": [
         {
           "id": 1,
-          "name": "Treinando e se aprimorando",
+          "name": "Design de logotipo",
           "alias": "A"
         },
         {
           "id": 2,
-          "name": "Ajudando os outros e sendo altruísta",
+          "name": "Design de interface do usuário",
           "alias": "B"
         },
         {
           "id": 3,
-          "name": "Explorando novos lugares e culturas",
+          "name": "Design de ilustração",
           "alias": "C"
         },
         {
           "id": 4,
-          "name": "Realizando atividades físicas e esportivas",
+          "name": "Design de embalagens",
           "alias": "D"
         },
         {
           "id": 5,
-          "name": "Explorando o mundo aquático",
+          "name": "Design de identidade visual",
           "alias": "E"
         },
         {
           "id": 6,
-          "name": "Trabalhando em projetos de tecnologia",
+          "name": "Design de tipografia",
           "alias": "F"
         }
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Qual é sua abordagem em situações de conflito?",
-      "options": [
+        ]
+       },
+       {
+        "id": 15,
+        "question": "Se você fosse um escritor, qual tipo de livro você gostaria de escrever e por quê?",
+        "options": [
         {
           "id": 1,
-          "name": "Usar estratégia e planejamento",
+          "name": "Romance",
           "alias": "A"
         },
         {
           "id": 2,
-          "name": "Proteger a todos custe o que custar",
+          "name": "Ficção científica",
           "alias": "B"
         },
         {
           "id": 3,
-          "name": "Buscar a paz e a verdade",
+          "name": "Poesia",
           "alias": "C"
         },
         {
           "id": 4,
-          "name": "Resolver rápido para minimizar danos",
+          "name": "Biografia",
           "alias": "D"
         },
         {
           "id": 5,
-          "name": "Defender os oceanos e suas criaturas",
+          "name": "Autoajuda",
           "alias": "E"
         },
         {
           "id": 6,
-          "name": "Usar a tecnologia para resolver",
+          "name": "Crônica",
           "alias": "F"
         }
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Qual é o seu maior medo?",
-      "options": [
+        ]
+       },
+       {
+        "id": 16,
+        "question": "Se você fosse um chef, qual tipo de cozinha você gostaria de experimentar e por quê?",
+        "options": [
         {
           "id": 1,
-          "name": "Perder controle das situações",
+          "name": "Italiana",
           "alias": "A"
         },
         {
           "id": 2,
-          "name": "Ser incapaz de salvar a todos",
+          "name": "Francesa",
           "alias": "B"
         },
         {
           "id": 3,
-          "name": "Ser manipulado ou controlado",
+          "name": "Japonesa",
           "alias": "C"
         },
         {
           "id": 4,
-          "name": "Ficar preso no tempo",
+          "name": "Mediterrânea",
           "alias": "D"
         },
         {
           "id": 5,
-          "name": "Ver danos irreparáveis nos oceanos",
+          "name": "Americana",
           "alias": "E"
         },
         {
           "id": 6,
-          "name": "Perder a humanidade para a tecnologia",
+          "name": "Vegetariana",
           "alias": "F"
         }
-      ]
-    },
-    {
-      "id": 5,
-      "question": "O que você valoriza mais em um líder?",
-      "options": [
+        ]
+       },
+       {
+        "id": 17,
+        "question": "Coloque seu personagem no dilema do trem. Existem cinco pessoas amarradas à pista e não podem escapar. Ao lado do seu personagem há uma alavanca que pode desviar o trem por um caminho diferente, mas há uma criança brincando e ele não tem tempo de avisá-la do perigo. O que ele faz?",
+        "options": [
         {
-          "id": 1,
-          "name": "Inteligência e estratégia",
-          "alias": "A"
+         "id": 1,
+         "name": "Puxa a alavanca, salvando cinco pessoas, mas matando a criança.",
+         "alias": "A"
         },
         {
-          "id": 2,
-          "name": "Inspirar esperança e confiança",
-          "alias": "B"
+         "id": 2,
+         "name": "Assume que não há tempo hábil para salvar os cinco e que o destino deles está decidido.",
+         "alias": "B"
         },
         {
-          "id": 3,
-          "name": "Sabedoria e justiça",
-          "alias": "C"
+         "id": 3,
+         "name": "Arrisca salvar os cinco e tentar de alguma forma avisar a criança.",
+         "alias": "C"
         },
         {
-          "id": 4,
-          "name": "Rapidez e eficiência",
-          "alias": "D"
+         "id": 4,
+         "name": "Seu personagem é o maquinista e fica preso nos trilhos.",
+         "alias": "D"
         },
         {
-          "id": 5,
-          "name": "Conexão com a natureza e os oceanos",
-          "alias": "E"
-        },
-        {
-          "id": 6,
-          "name": "Habilidade em tecnologia e inovação",
-          "alias": "F"
+         "id": 5,
+         "name": "As pessoas amarradas são criminosos, ou seu personagem é um viajante do tempo e o único que sabe que a criança crescerá e se tornará um grande tirano é ele.",
+         "alias": "E"
         }
-      ]
-    },
-    {
-      "id": 6,
-      "question": "Se você tivesse um dia livre de responsabilidades, o que faria?",
-      "options": [
+        ]
+       },
+       {
+        "id": 18,
+        "question": "Crie mundos alternativos. Que tal criar linhas de tempo distintas e significativas dos seus personagens? Você não precisa explorar milhares de mundos, mas teste algumas versões do mesmo, com eventos que vão fazer seu personagem se sentir fora do eixo.",
+        "options": [
         {
-          "id": 1,
-          "name": "Treinamento e aprimoramento pessoal",
-          "alias": "A"
+         "id": 1,
+         "name": "Seu personagem quer fazer uma viajem mas não tem dinheiro, ele pode ter passado anos trabalhando por isso.",
+         "alias": "A"
         },
         {
-          "id": 2,
-          "name": "Ajudaria em questões humanitárias",
-          "alias": "B"
+         "id": 2,
+         "name": "Seu personagem arriscou fazer um mochilão com a cara e a coragem, e quem sabe, nunca poderá fazer essa viagem, pois foi acusado de um crime e vai ficar preso por algumas décadas.",
+         "alias": "B"
         },
         {
-          "id": 3,
-          "name": "Exploraria novos lugares ou culturas",
-          "alias": "C"
+         "id": 3,
+         "name": "Seu personagem é um herói que salva o mundo, mas depois perde a memória e começa uma nova vida.",
+         "alias": "C"
         },
         {
-          "id": 4,
-          "name": "Participaria de competições ou desafios",
-          "alias": "D"
+         "id": 4,
+         "name": "Seu personagem é um vilão que domina o mundo, mas depois descobre que tem um coração bom e decide mudar.",
+         "alias": "D"
         },
         {
-          "id": 5,
-          "name": "Exploraria os oceanos ou ajudaria a vida marinha",
-          "alias": "E"
-        },
-        {
-          "id": 6,
-          "name": "Trabalharia em projetos de tecnologia",
-          "alias": "F"
+         "id": 5,
+         "name": "Seu personagem é um herói que sempre vence, mas depois enfrenta uma série de derrotas que o fazem questionar sua valentia.",
+         "alias": "E"
         }
-      ]
-    },
-    {
-      "id": 7,
-      "question": "Qual é a sua visão sobre o uso de tecnologia?",
-      "options": [
+        ]
+       },
+       {
+        "id": 19,
+        "question": "Quebre o gelo para seus personagens. Sabe aquelas perguntas que te tiram da zona de conforto, de uma forma boa ou até mesmo ruim? então, é essas perguntas de quebrar o gelo que ampliam ainda mais as ações e reações dos nossos personagens.",
+        "options": [
         {
-          "id": 1,
-          "name": "Usar tecnologia para o bem e proteção",
-          "alias": "A"
+         "id": 1,
+         "name": "Sendo abordado por um desconhecido numa festa com perguntas estranhas.",
+         "alias": "A"
         },
         {
-          "id": 2,
-          "name": "Usar a tecnologia para ajudar a humanidade",
-          "alias": "B"
+         "id": 2,
+         "name": "Encontrando-se sozinho em uma floresta escura.",
+         "alias": "B"
         },
         {
-          "id": 3,
-          "name": "Usar tecnologia como uma ferramenta",
-          "alias": "C"
+         "id": 3,
+         "name": "Recebendo uma mensagem de um mentor desconhecido.",
+         "alias": "C"
         },
         {
-          "id": 4,
-          "name": "Usar a tecnologia para melhorar velocidade e eficiência",
-          "alias": "D"
+         "id": 4,
+         "name": "Sendo confrontado por um rival implacável.",
+         "alias": "D"
         },
         {
-          "id": 5,
-          "name": "Usar a tecnologia para proteger os oceanos",
-          "alias": "E"
-        },
-        {
-          "id": 6,
-          "name": "Depender demais da tecnologia pode ser perigoso",
-          "alias": "F"
+         "id": 5,
+         "name": "Descobrindo um segredo sobre si mesmo.",
+         "alias": "E"
         }
-      ]
-    },
-    {
-      "id": 8,
-      "question": "Qual é a sua abordagem para resolver problemas?",
-      "options": [
+        ]
+       },
+       {
+        "id": 21,
+        "question": "Se você fosse um herói, qual seria a sua maior conquista e como você a alcançaria?",
+        "options": [
         {
-          "id": 1,
-          "name": "Planejamento e estratégia cuidadosos",
-          "alias": "A"
+        "id": 1,
+        "name": "Salvar um planeta inteiro",
+        "alias": "A"
         },
         {
-          "id": 2,
-          "name": "Enfrentar os problemas de frente",
-          "alias": "B"
+        "id": 2,
+        "name": "Reverter um experimento científico mal feito",
+        "alias": "B"
         },
         {
-          "id": 3,
-          "name": "Procurar resolver de forma pacífica",
-          "alias": "C"
+        "id": 3,
+        "name": "Derrotar um vilão poderoso",
+        "alias": "C"
         },
         {
-          "id": 4,
-          "name": "Resolver rapidamente para evitar danos maiores",
-          "alias": "D"
+        "id": 4,
+        "name": "Unificar duas nações em guerra",
+        "alias": "D"
         },
         {
-          "id": 5,
-          "name": "Resolver de acordo com a conexão com a natureza",
-          "alias": "E"
+        "id": 5,
+        "name": "Encontrar um objeto perdido com poderes incríveis",
+        "alias": "E"
         },
         {
-          "id": 6,
-          "name": "Usar a tecnologia para solucionar problemas",
-          "alias": "F"
+        "id": 6,
+        "name": "Salvar uma espécie em extinção",
+        "alias": "F"
         }
-      ]
-    },
-    {
-      "id": 9,
-      "question": "Qual é o seu maior motivo para defender os outros?",
-      "options": [
-        {
-          "id": 1,
-          "name": "Porque é a coisa certa a fazer",
-          "alias": "A"
-        },
-        {
-          "id": 2,
-          "name": "Para inspirar esperança e proteger",
-          "alias": "B"
-        },
-        {
-          "id": 3,
-          "name": "Para trazer paz e justiça",
-          "alias": "C"
-        },
-        {
-          "id": 4,
-          "name": "Para evitar desastres e salvar vidas",
-          "alias": "D"
-        },
-        {
-          "id": 5,
-          "name": "Para preservar a vida marinha e a natureza",
-          "alias": "E"
-        },
-        {
-          "id": 6,
-          "name": "Para usar a tecnologia em prol da segurança",
-          "alias": "F"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "question": "O que mais te inspira?",
-      "options": [
-        {
-          "id": 1,
-          "name": "As experiências e conhecimentos adquiridos",
-          "alias": "A"
-        },
-        {
-          "id": 2,
-          "name": "A ideia de um mundo melhor e seguro",
-          "alias": "B"
-        },
-        {
-          "id": 3,
-          "name": "A sabedoria e as conquistas pessoais",
-          "alias": "C"
-        },
-        {
-          "id": 4,
-          "name": "A velocidade e a emoção das situações",
-          "alias": "D"
-        },
-        {
-          "id": 5,
-          "name": "A beleza e a magnitude dos oceanos",
-          "alias": "E"
-        },
-        {
-          "id": 6,
-          "name": "A evolução e o avanço da tecnologia",
-          "alias": "F"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "question": "Qual é a sua atitude diante dos desafios?",
-      "options": [
-        {
-          "id": 1,
-          "name": "Planejar e enfrentar com determinação",
-          "alias": "A"
-        },
-        {
-          "id": 2,
-          "name": "Enfrentar sem hesitação",
-          "alias": "B"
-        },
-        {
-          "id": 3,
-          "name": "Buscar uma solução justa e equilibrada",
-          "alias": "C"
-        },
-        {
-          "id": 4,
-          "name": "Enfrentar com velocidade e agilidade",
-          "alias": "D"
-        },
-        {
-          "id": 5,
-          "name": "Encarar de acordo com a conexão com a natureza",
-          "alias": "E"
-        },
-        {
-          "id": 6,
-          "name": "Resolver usando tecnologia e inovação",
-          "alias": "F"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "question": "O que é mais importante para você?",
-      "options": [
-        {
-          "id": 1,
-          "name": "Conhecimento e habilidades",
-          "alias": "A"
-        },
-        {
-          "id": 2,
-          "name": "Proteger os indefesos",
-          "alias": "B"
-        },
-        {
-          "id": 3,
-          "name": "Verdade e justiça",
-          "alias": "C"
-        },
-        {
-          "id": 4,
-          "name": "Rapidez e agilidade",
-          "alias": "D"
-        },
-        {
-          "id": 5,
-          "name": "Preservar a natureza e os oceanos",
-          "alias": "E"
-        },
-        {
-          "id": 6,
-          "name": "Inovação e avanços tecnológicos",
-          "alias": "F"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "question": "Qual é o seu maior valor pessoal?",
-      "options": [
-        {
-          "id": 1,
-          "name": "Determinação e disciplina",
-          "alias": "A"
-        },
-        {
-          "id": 2,
-          "name": "A bondade e o idealismo",
-          "alias": "B"
-        },
-        {
-          "id": 3,
-          "name": "A coragem e a compaixão",
-          "alias": "C"
-        },
-        {
-          "id": 4,
-          "name": "A velocidade e a agilidade",
-          "alias": "D"
-        },
-        {
-          "id": 5,
-          "name": "O respeito pela natureza e o oceano",
-          "alias": "E"
-        },
-        {
-          "id": 6,
-          "name": "A habilidade de criar e inovar",
-          "alias": "F"
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "question": "Qual é a sua opinião sobre sacrifício pessoal?",
-      "options": [
-        {
-          "id": 1,
-          "name": "Às vezes necessário pelo bem maior",
-          "alias": "A"
-        },
-        {
-          "id": 2,
-          "name": "Sempre disposto a se sacrificar pelo bem dos outros",
-          "alias": "B"
-        },
-        {
-          "id": 3,
-          "name": "Se necessário para proteger os ideais",
-          "alias": "C"
-        },
-        {
-          "id": 4,
-          "name": "Às vezes necessário em situações críticas",
-          "alias": "D"
-        },
-        {
-          "id": 5,
-          "name": "Disposto a sacrificar para preservar a vida marinha",
-          "alias": "E"
-        },
-        {
-          "id": 6,
-          "name": "Preferiria evitar, se possível, usando a tecnologia",
-          "alias": "F"
-        }
-      ]
-    },
-        {
-          "id": 15,
-          "question": "Se você pudesse escolher um local para viver, onde seria?",
-          "options":[
-            {"id": 1, "name":"Uma cidade tecnologicamente avançada", "alias":"A"},
-            {"id": 2, "name":"Uma área rural tranquila", "alias":"B"},
-            {"id": 3, "name":"Uma ilha isolada com cultura rica", "alias":"C"},
-            {"id": 4, "name":"Uma metrópole movimentada e empolgante", "alias":"D"},
-            {"id": 5, "name":"Uma residência à beira-mar", "alias":"E"},
-            {"id": 6, "name":"Uma cidade com foco em inovação tecnológica", "alias":"F"}
-          ]
-        },
-        {
-          "id": 16,
-          "question": "Qual é a sua reação diante de uma situação de emergência?",
-          "options":[
-            {"id": 1, "name":"Analisar e criar um plano de ação", "alias":"A"},
-            {"id": 2, "name":"Agir imediatamente para salvar vidas", "alias":"B"},
-            {"id": 3, "name":"Intervir e manter a ordem", "alias":"C"},
-            {"id": 4, "name":"Agir com velocidade para minimizar danos", "alias":"D"},
-            {"id": 5, "name":"Proteger a vida marinha e os oceanos", "alias":"E"},
-            {"id": 6, "name":"Usar tecnologia para resolver a emergência", "alias":"F"}
-          ]
-        },
-        {
-          "id": 17,
-          "question": "Qual é a sua filosofia de vida?",
-          "options":[
-            {"id": 1, "name":"Aprender com experiências e conhecimentos", "alias":"A"},
-            {"id": 2, "name":"Acreditar no potencial humano", "alias":"B"},
-            {"id": 3, "name":"Buscar a verdade e a sabedoria", "alias":"C"},
-            {"id": 4, "name":"Viver a vida ao máximo e aproveitar cada momento", "alias":"D"},
-            {"id": 5, "name":"Preservar e respeitar a natureza", "alias":"E"},
-            {"id": 6, "name":"Buscar constantes avanços e inovações", "alias":"F"}
-          ]
-        },
-        {
-          "id": 18,
-          "question": "Se tivesse que escolher um animal que te representasse",
-          "options":[
-            {"id": 1, "name":"Morcego", "alias":"A"},
-            {"id": 2, "name":"Águia", "alias":"B"},
-            {"id": 3, "name":"Águia", "alias":"C"},
-            {"id": 4, "name":"Lebre", "alias":"D"},
-            {"id": 5, "name":"Tubarão", "alias":"E"},
-            {"id": 6, "name":"Lobo", "alias":"F"}
-          ]
-        },
-        {
-          "id": 19,
-          "question": "Se você pudesse ter um objeto de poder, o que escolheria?",
-          "options":[
-            {"id": 1, "name":"Um cinto de utilidades versátil", "alias":"A"},
-            {"id": 2, "name":"Um cristal ou artefato cósmico", "alias":"B"},
-            {"id": 3, "name":"Um laço da verdade mágico", "alias":"C"},
-            {"id": 4, "name":"Um anel de alta tecnologia", "alias":"D"},
-            {"id": 5, "name":"Um tridente mágico", "alias":"E"},
-            {"id": 6, "name":"Um sistema de controle cibernético", "alias":"F"}
-          ]
-        },
-        {
-          "id": 20,
-          "question": "Se você pudesse salvar apenas uma pessoa, quem seria?",
-          "options":[
-            {"id": 1, "name":"Familiar", "alias":"A"},
-            {"id": 2, "name":"Amigo próximo", "alias":"B"},
-            {"id": 3, "name":"Estranho inocente", "alias":"C"},
-            {"id": 4, "name":"Muitas pessoas em risco", "alias":"D"},
-            {"id": 5, "name":"A si mesmo", "alias":"E"},
-            {"id": 6, "name":"População inteira de uma cidade", "alias":"F"}
-          ]
-        }
+        ]
+       }
   ],
   "results": {
     "A": {

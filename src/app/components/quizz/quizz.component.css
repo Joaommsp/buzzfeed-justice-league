@@ -74,7 +74,7 @@
 }
 
 .quizz_questions > h3 {
-  font-size: 2.5em;
+  font-size: 1.8em;
   font-family: "Kanit", sans-serif;
   text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.49);
 }
@@ -83,7 +83,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  height: 250px;
+  height: 450px;
   margin: auto;
   gap: 10px;
   margin-bottom: 5rem;
@@ -96,7 +96,7 @@
   width: 20%;
   padding: 16px 32px;
   color: #ffff;
-  text-shadow: 2px -1px 0px rgba(0,0,0,0.17);
+  text-shadow: 2px -1px 0px rgba(0, 0, 0, 0.17);
   font-size: 1em;
   text-align: center;
   font-weight: bold;
@@ -152,25 +152,28 @@
   color: #808080;
 }
 
-@media  screen and (max-width: 900px) {
+@media screen and (max-width: 900px) {
   .btn-option {
     width: 33.3%;
     padding: 10px 20px;
-    font-size: .8em;
+    font-size: 0.8em;
+  }
+  .quizz_questions > h3 {
+    font-size: 1em;
+    font-family: "Kanit", sans-serif;
+    text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.49);
   }
 }
 
-@media  screen and (max-width: 700px) {
+@media screen and (max-width: 700px) {
   .btn-option {
     width: 50%;
     padding: 10px 20px;
-    font-size: .8em;
+    font-size: 0.8em;
   }
 }
 
-
-@media  screen and (max-width: 520px) {
-
+@media screen and (max-width: 520px) {
   .quizz_logo > h3 {
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -178,6 +181,16 @@
     text-align: center;
     font-family: "Kanit", sans-serif;
     color: #fff;
+  }
+
+  .quizz_questions {
+    height: fit-content;
+  }
+
+  .quizz_questions > h3 {
+    font-size: .8em;
+    font-family: "Kanit", sans-serif;
+    text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.49);
   }
 
   .quizz_options {
@@ -193,7 +206,7 @@
   .btn-option {
     width: 80%;
     padding: 10px 20px;
-    font-size: .8em;
+    font-size: 0.8em;
   }
 
   .quizz_questions > h3 {
@@ -206,15 +219,11 @@
     height: 100vh;
   }
 
-
-.quizz_results > img {
-  width: 250px;
-}
+  .quizz_results > img {
+    width: 250px;
+  }
 
   .quizz_results > p {
     padding: 0 1em;
   }
-
-
-
 }
