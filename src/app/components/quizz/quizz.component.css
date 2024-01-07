@@ -139,6 +139,10 @@
   font-family: "Kanit", sans-serif;
 }
 
+.quizz_results {
+  height: fit-content;
+}
+
 .quizz_results > img {
   width: 350px;
 }
@@ -147,7 +151,7 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   padding: 0 10em;
-  margin-top: 1rem;
+  margin-top: 8rem;
   margin-bottom: 3rem;
   color: #808080;
 }
@@ -225,5 +229,6 @@
 
   .quizz_results > p {
     padding: 0 1em;
+
   }
 }
