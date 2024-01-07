@@ -1,0 +1,27 @@
+.container_footer {
+  width: 100%;
+  height: 100px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.container_footer > img {
+  width: 200px;
+}
+
+@media  screen and (max-width: 520px) {
+  .container_footer {
+  width: 100%;
+  height: 100px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.container_footer > img {
+  width: 200px;
+}
+}

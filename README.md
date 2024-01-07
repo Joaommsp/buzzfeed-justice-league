@@ -1,27 +1,47 @@
 # ProjetoBuzzfeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Projeto de um Quizz da Liga da Justiça feito com Angular . Desenvolvi esse projeto como desafio final do BootCamp Front-End com Angular Banco PAN pelo DIO.me.
 
-## Development server
+![](./src/assets/imgs/bootcamp.png)
+![](../projeto-buzzfeed/src/assets/imgs/svg/dio.svg)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Projeto
+![](./src/assets/imgs/readme/MacBook%20Pro-1704589855952.jpeg)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Responda as perguntas
+![](./src/assets/imgs/readme/MacBook%20Pro-1704589976379.jpeg)
 
-## Build
+## Veja os resultados
+![](./src/assets/imgs/readme/MacBook%20Pro-1704589988139.jpeg)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Mobile
+![](./src/assets/imgs/readme/iPhone%2012%20Pro-1704589871833.jpeg)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+Este projeto foi gerado com o [Angular CLI](https://github.com/angular/angular-cli) na versão 14.1.2.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Servidor de desenvolvimento
 
-## Further help
+Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. A aplicação será recarregada automaticamente se você alterar algum dos arquivos de origem.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Estrutura de código
+
+Execute `ng generate component nome-do-componente` para gerar um novo componente. Você também pode utilizar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Construção
+
+Execute `ng build` para construir o projeto. Os artefatos de construção serão armazenados no diretório `dist/`.
+
+## Executando testes unitários
+
+Execute `ng test` para executar os testes unitários via [Karma](https://karma-runner.github.io).
+
+## Executando testes end-to-end
+
+Execute `ng e2e` para executar os testes end-to-end através de uma plataforma de sua escolha. Para usar este comando, você precisa primeiro adicionar um pacote que implemente capacidades de teste end-to-end.
+
+## Ajuda adicional
+
+Para obter mais ajuda sobre o Angular CLI, use `ng help` ou consulte a página [Visão Geral e Referência de Comandos do Angular CLI](https://angular.io/cli).
