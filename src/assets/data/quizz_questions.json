@@ -435,7 +435,7 @@
        },
        {
         "id": 13,
-        "question": "Se você fosse um programador, qual linguagem de programação você gostaria de dominar e por quê?",
+        "question": "Se você fosse um programador, qual linguagem de programação você gostaria de dominar ?",
         "options": [
         {
           "id": 1,
@@ -471,7 +471,7 @@
        },
        {
         "id": 14,
-        "question": "Se você fosse um designer gráfico, qual tipo de design você gostaria de criar e por quê?",
+        "question": "Se você fosse um designer gráfico, qual tipo de design você gostaria de criar ?",
         "options": [
         {
           "id": 1,
@@ -507,7 +507,7 @@
        },
        {
         "id": 15,
-        "question": "Se você fosse um escritor, qual tipo de livro você gostaria de escrever e por quê?",
+        "question": "Se você fosse um escritor, qual tipo de livro você gostaria de escrever ?",
         "options": [
         {
           "id": 1,
@@ -543,7 +543,7 @@
        },
        {
         "id": 16,
-        "question": "Se você fosse um chef, qual tipo de cozinha você gostaria de experimentar e por quê?",
+        "question": "Se você fosse um chef, qual tipo de cozinha você gostaria de experimentar ?",
         "options": [
         {
           "id": 1,
