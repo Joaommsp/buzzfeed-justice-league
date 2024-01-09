@@ -1,5 +1,5 @@
 {
-  "title": "Qual Herói você seria ?",
+  "title": "QUAL HERÓI DA LIGA VOCÊ SERIA?",
   "questions": [
       {
        "id": 1,
@@ -603,7 +603,7 @@
         },
         {
          "id": 5,
-         "name": "As pessoas amarradas são criminosos, ou seu personagem é um viajante do tempo e o único que sabe que a criança crescerá e se tornará um grande tirano é ele.",
+         "name": "Seu personagem é um viajante do tempo e sabe que a criança crescerá e se tornará um grande vilão",
          "alias": "E"
         }
         ]
@@ -614,12 +614,12 @@
         "options": [
         {
          "id": 1,
-         "name": "Seu personagem quer fazer uma viajem mas não tem dinheiro, ele pode ter passado anos trabalhando por isso.",
+         "name": "Seu personagem quer fazer uma viajem mas não tem dinheiro.",
          "alias": "A"
         },
         {
          "id": 2,
-         "name": "Seu personagem arriscou fazer um mochilão com a cara e a coragem, e quem sabe, nunca poderá fazer essa viagem, pois foi acusado de um crime e vai ficar preso por algumas décadas.",
+         "name": "Seu personagem arriscou fazer uma viagem sem destino com a cara e a coragem.",
          "alias": "B"
         },
         {
@@ -629,12 +629,12 @@
         },
         {
          "id": 4,
-         "name": "Seu personagem é um vilão que domina o mundo, mas depois descobre que tem um coração bom e decide mudar.",
+         "name": "Seu personagem é um vilão que domina o mundo, mas depois descobre que tem um coração bom.",
          "alias": "D"
         },
         {
          "id": 5,
-         "name": "Seu personagem é um herói que sempre vence, mas depois enfrenta uma série de derrotas que o fazem questionar sua valentia.",
+         "name": "Seu personagem é um herói que sempre vence, mas depois enfrenta uma série de derrotas.",
          "alias": "E"
         }
         ]
@@ -712,37 +712,37 @@
       "title": "Batman!",
       "reason": "Sua abordagem estratégica para resolver problemas, a valorização da inteligência e habilidades técnicas, assim como o foco no treinamento e aprimoramento pessoal, indicam uma afinidade com as características do Batman. Sua determinação em proteger os outros, buscando um equilíbrio entre ética, justiça e o uso da tecnologia, te coloca no caminho do Cavaleiro das Trevas.",
       "image": "assets/imgs/batman.png",
-      "bg" : "assets/imgs/bgs/3.png"
+      "bg" : "assets/imgs/wallpapers/batman.png"
     },
     "B": {
       "title": "Superman!",
       "reason": "Sua natureza altruísta, a vontade de proteger a todos custe o que custar, além da busca por inspirar esperança e confiança, refletem as características do Superman. Sua crença no potencial humano e disposição para ajudar em questões humanitárias te colocam em sintonia com o Último Filho de Krypton.",
       "image": "assets/imgs/superman.png",
-      "bg" : "assets/imgs/bgs/1.png"
+      "bg" : "assets/imgs/wallpapers/superman.jpg"
     },
     "C": {
       "title": "Mulher-Maravilha!",
       "reason": "Sua busca pela verdade e justiça, a valorização da sabedoria e coragem, juntamente com a abordagem pacífica em situações de conflito, demonstram afinidade com as características da Mulher-Maravilha. Sua aspiração por explorar novos lugares e culturas encontra paralelos com a Princesa das Amazonas.",
       "image": "assets/imgs/wonderwoman.png",
-      "bg" : "assets/imgs/bgs/5.png"
+      "bg" : "assets/imgs/wallpapers/wonderwoman.jpg"
     },
     "D": {
       "title": "The Flash!",
       "reason": "Sua preferência por resolver problemas rapidamente, a valorização da agilidade e velocidade, juntamente com a disposição para enfrentar desafios com rapidez, refletem as características do The Flash. Sua inclinação para participar de competições ou desafios e enfrentar situações de emergência com velocidade, fazem você se alinhar ao Velocista Escarlate.",
       "image": "assets/imgs/flash.png",
-      "bg" : "assets/imgs/bgs/2.png"
+      "bg" : "assets/imgs/wallpapers/flash.png"
     },
     "E": {
       "title": "Aquaman!",
       "reason": "Seu apreço pela natureza e o respeito pelos oceanos, juntamente com o desejo de proteger a vida marinha, refletem as características do Aquaman. Sua preferência por explorar os oceanos e ajudar a vida marinha demonstram afinidade com o Rei de Atlântida.",
       "image": "assets/imgs/aquaman.webp",
-      "bg" : "assets/imgs/bgs/4.png"
+      "bg" : "assets/imgs/wallpapers/aquaman.jpg"
     },
     "F": {
       "title": "Ciborg!",
       "reason": "Sua preferência por trabalhar em projetos de tecnologia, a visão sobre o uso da tecnologia para o bem e a disposição para resolver problemas utilizando inovações tecnológicas indicam uma afinidade com as características do Ciborg. Sua abordagem centrada na tecnologia e na resolução de problemas com o uso dela te coloca no caminho do Meio-Humano, Meio-Máquina.",
       "image": "assets/imgs/ciborg.png",
-      "bg" : "assets/imgs/bgs/6.png"
+      "bg" : "assets/imgs/wallpapers/ciborg.jpg"
     }
   }
 }

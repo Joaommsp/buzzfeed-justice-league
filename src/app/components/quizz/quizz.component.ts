@@ -44,6 +44,8 @@ export class QuizzComponent implements OnInit {
 
   startGame() {
     this.start = true;
+    let el: HTMLElement = document.getElementById('quizz_options') as HTMLElement;
+    el.scrollIntoView({ behavior: 'smooth', block: 'center' })
   }
 
   playerChoice(value: string) {
@@ -65,7 +67,7 @@ export class QuizzComponent implements OnInit {
       this.answerBg = `background-image: url(${quizz_questions.results[finalAnswer as keyof typeof quizz_questions.results].bg});
 
       background-repeat: no-repeat;
-      background-size: contain;
+      background-size: cover;
       background-position: 35% 20%;
       `
       // verificar opção ganhadora
